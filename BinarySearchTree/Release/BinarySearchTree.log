@@ -1,0 +1,17 @@
+﻿Build started 2/19/2019 4:03:40 PM.
+     1>Project "E:\C++\BinarySearchTree\BinarySearchTree\BinarySearchTree.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\BinarySearchTree.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         BinarySearchTree.vcxproj -> E:\C++\BinarySearchTree\Release\BinarySearchTree.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\BinarySearchTree.unsuccessfulbuild".
+         Touching "Release\BinarySearchTree.lastbuildstate".
+     1>Done Building Project "E:\C++\BinarySearchTree\BinarySearchTree\BinarySearchTree.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
